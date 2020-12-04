@@ -103,4 +103,4 @@ console.log(app.contarImparesWhile(4, 12));
 
 console.log(app.sumarParesDo());
 
-console.log(app.contarImparesDo(11, 5));
+console.log(app.contarImparesDo(5, 11));
